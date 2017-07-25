@@ -1,0 +1,2 @@
+ChaseKospiMeril.py, ChaseKosdaqMeril.py - 장중에 외인매도가 0이고 메릴린치가 매수중인 종목을 알려주고 slack으로 메시지도 보내줌.
+ZipKospiCode.py, ZipKosdaqCode.py - 수많은 종목코드를 전날 거래량으로해서 10만주 이상 되는 종목으로 걸러줌.
